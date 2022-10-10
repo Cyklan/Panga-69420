@@ -1,0 +1,115 @@
+{
+  "link": "https://www.youtube.com/watch?v=HStZ_adIWD8",
+  "levels": [
+    {
+      "code": "2NX-8KF-SKG",
+      "tries": 1,
+      "extraLives": 3,
+      "skipped": false,
+      "coconutMaller": false,
+      "worldRecord": false,
+      "timestamp": 24,
+      "rating": "like"
+    },
+    {
+      "code": "YWS-WSH-BQF",
+      "tries": 4,
+      "extraLives": 3,
+      "skipped": false,
+      "coconutMaller": false,
+      "worldRecord": true,
+      "timestamp": 122,
+      "rating": "boo"
+    },
+    {
+      "code": "LT9-7VN-33G",
+      "tries": 1,
+      "extraLives": 3,
+      "skipped": false,
+      "coconutMaller": false,
+      "worldRecord": true,
+      "timestamp": 212,
+      "rating": "meh"
+    },
+    {
+      "code": "7DS-Y7R-6VF",
+      "tries": 2,
+      "extraLives": 1,
+      "skipped": false,
+      "coconutMaller": false,
+      "worldRecord": false,
+      "timestamp": 546,
+      "rating": "meh"
+    },
+    {
+      "code": "4VF-K9V-TLF",
+      "tries": 4,
+      "extraLives": 1,
+      "skipped": false,
+      "coconutMaller": false,
+      "worldRecord": false,
+      "timestamp": 574,
+      "rating": "boo"
+    },
+    {
+      "code": "DS2-HXN-3RF",
+      "tries": 1,
+      "extraLives": 3,
+      "skipped": false,
+      "coconutMaller": false,
+      "worldRecord": false,
+      "timestamp": 701,
+      "rating": "meh"
+    },
+    {
+      "code": "04J-W39-SJG",
+      "tries": 4,
+      "extraLives": 3,
+      "skipped": false,
+      "coconutMaller": false,
+      "worldRecord": false,
+      "timestamp": 741,
+      "rating": "boo"
+    },
+    {
+      "code": "Q8S-W27-GMF",
+      "tries": 1,
+      "extraLives": 3,
+      "skipped": false,
+      "coconutMaller": false,
+      "worldRecord": false,
+      "timestamp": 845,
+      "rating": "meh"
+    },
+    {
+      "code": "3QJ-GWC-WVG",
+      "tries": 2,
+      "extraLives": 1,
+      "skipped": false,
+      "coconutMaller": false,
+      "worldRecord": true,
+      "timestamp": 909,
+      "rating": "like"
+    },
+    {
+      "code": "7DS-236-CFF",
+      "tries": 4,
+      "extraLives": 3,
+      "skipped": false,
+      "coconutMaller": false,
+      "worldRecord": false,
+      "timestamp": 958,
+      "rating": "meh"
+    },
+    {
+      "code": "KX8-TFP-SNF",
+      "tries": 2,
+      "extraLives": 2,
+      "skipped": false,
+      "coconutMaller": false,
+      "worldRecord": false,
+      "timestamp": 1043,
+      "rating": "meh"
+    }
+  ]
+}
